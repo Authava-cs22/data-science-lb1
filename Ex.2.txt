@@ -1,6 +1,6 @@
 Ex.No.2	WORKING WITH NUMPY ARRAYS
 
-
+//edited
 
 Aim :
 
